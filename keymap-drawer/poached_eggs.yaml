@@ -257,4 +257,4 @@ layers:
   - {t: ▽, type: trans}
 combos:
 - p: [42, 43]
-  k: ENTER
+  k: RET

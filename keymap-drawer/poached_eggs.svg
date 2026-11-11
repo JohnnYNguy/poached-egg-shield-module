@@ -340,7 +340,7 @@ text.trans { fill: #3f72c4; opacity: 0.95; }
 </g>
 <g class="combo combopos-0">
 <rect rx="6" ry="6" x="406" y="197" width="28" height="26" class="combo"/>
-<text x="420" y="210" class="combo tap">ENTER</text>
+<text x="420" y="210" class="combo tap">RET</text>
 </g>
 </g>
 </g>
@@ -549,7 +549,7 @@ text.trans { fill: #3f72c4; opacity: 0.95; }
 </g>
 <g class="combo combopos-0">
 <rect rx="6" ry="6" x="406" y="197" width="28" height="26" class="combo"/>
-<text x="420" y="210" class="combo tap">ENTER</text>
+<text x="420" y="210" class="combo tap">RET</text>
 </g>
 </g>
 </g>
@@ -758,7 +758,7 @@ text.trans { fill: #3f72c4; opacity: 0.95; }
 </g>
 <g class="combo combopos-0">
 <rect rx="6" ry="6" x="406" y="197" width="28" height="26" class="combo"/>
-<text x="420" y="210" class="combo tap">ENTER</text>
+<text x="420" y="210" class="combo tap">RET</text>
 </g>
 </g>
 </g>
@@ -979,7 +979,7 @@ text.trans { fill: #3f72c4; opacity: 0.95; }
 </g>
 <g class="combo combopos-0">
 <rect rx="6" ry="6" x="406" y="197" width="28" height="26" class="combo"/>
-<text x="420" y="210" class="combo tap">ENTER</text>
+<text x="420" y="210" class="combo tap">RET</text>
 </g>
 </g>
 </g>
@@ -1220,7 +1220,7 @@ text.trans { fill: #3f72c4; opacity: 0.95; }
 </g>
 <g class="combo combopos-0">
 <rect rx="6" ry="6" x="406" y="197" width="28" height="26" class="combo"/>
-<text x="420" y="210" class="combo tap">ENTER</text>
+<text x="420" y="210" class="combo tap">RET</text>
 </g>
 </g>
 </g>
