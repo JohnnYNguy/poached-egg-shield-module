@@ -20,7 +20,6 @@
             key-positions = <42 43>;
         };
     };
-};
 
     keymap {
         compatible = "zmk,keymap";
