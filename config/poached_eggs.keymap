@@ -11,7 +11,7 @@
             bindings = <&kp KP_N0 &kp KP_N0>;
         };
     };
-/ {
+
     combos {
         compatible = "zmk,combos";
 
