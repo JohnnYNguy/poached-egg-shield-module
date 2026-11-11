@@ -338,6 +338,10 @@ text.trans { fill: #3f72c4; opacity: 0.95; }
 <text x="0" y="0" class="key tap layer-activator">Num</text>
 </a><text x="0" y="26" class="key hold">toggle</text>
 </g>
+<g class="combo combopos-0">
+<rect rx="6" ry="6" x="406" y="197" width="28" height="26" class="combo"/>
+<text x="420" y="210" class="combo tap">ENTER</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 296)" class="layer-Lower">
@@ -543,6 +547,10 @@ text.trans { fill: #3f72c4; opacity: 0.95; }
 <rect rx="6" ry="6" x="-28" y="-28" width="56" height="56" class="key none"/>
 <text x="0" y="0" class="key none tap">∅</text>
 </g>
+<g class="combo combopos-0">
+<rect rx="6" ry="6" x="406" y="197" width="28" height="26" class="combo"/>
+<text x="420" y="210" class="combo tap">ENTER</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 592)" class="layer-Raise">
@@ -747,6 +755,10 @@ text.trans { fill: #3f72c4; opacity: 0.95; }
 <g transform="translate(810, 210)" class="key none keypos-49">
 <rect rx="6" ry="6" x="-28" y="-28" width="56" height="56" class="key none"/>
 <text x="0" y="0" class="key none tap">∅</text>
+</g>
+<g class="combo combopos-0">
+<rect rx="6" ry="6" x="406" y="197" width="28" height="26" class="combo"/>
+<text x="420" y="210" class="combo tap">ENTER</text>
 </g>
 </g>
 </g>
@@ -964,6 +976,10 @@ text.trans { fill: #3f72c4; opacity: 0.95; }
 <g transform="translate(810, 210)" class="key keypos-49">
 <rect rx="6" ry="6" x="-28" y="-28" width="56" height="56" class="key"/>
 <text x="0" y="0" class="key tap">N</text>
+</g>
+<g class="combo combopos-0">
+<rect rx="6" ry="6" x="406" y="197" width="28" height="26" class="combo"/>
+<text x="420" y="210" class="combo tap">ENTER</text>
 </g>
 </g>
 </g>
@@ -1201,6 +1217,10 @@ text.trans { fill: #3f72c4; opacity: 0.95; }
 <g transform="translate(810, 210)" class="key trans keypos-49">
 <rect rx="6" ry="6" x="-28" y="-28" width="56" height="56" class="key trans"/>
 <text x="0" y="0" class="key trans tap">▽</text>
+</g>
+<g class="combo combopos-0">
+<rect rx="6" ry="6" x="406" y="197" width="28" height="26" class="combo"/>
+<text x="420" y="210" class="combo tap">ENTER</text>
 </g>
 </g>
 </g>

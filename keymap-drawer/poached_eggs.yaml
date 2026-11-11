@@ -255,3 +255,6 @@ layers:
   - '00'
   - ','
   - {t: ▽, type: trans}
+combos:
+- p: [42, 43]
+  k: ENTER
