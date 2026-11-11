@@ -17,7 +17,7 @@
         compatible = "zmk,combos";
         combo_enter {
             bindings = <&kp ENTER>;
-            key-positions = <42 43>
+            key-positions = <42 43>;
         };
         };
     };
