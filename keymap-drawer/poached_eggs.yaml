@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: poached_eggs}
 layers:
   Base:
-  - TAB
+  - ESC
   - Q
   - W
   - E
@@ -12,8 +12,8 @@ layers:
   - I
   - O
   - P
-  - '-'
-  - LCTRL
+  - '['
+  - TAB
   - A
   - S
   - D
@@ -37,22 +37,22 @@ layers:
   - .
   - /
   - RSHFT
-  - '&caps_word'
-  - {t: ∅, type: none}
+  - LGUI
+  - LALT
   - {t: ∅, type: none}
   - LGUI
   - LALT
   - Lower
   - SPACE
-  - RET
-  - Raise
   - BSPC
+  - Raise
+  - {t: ∅, type: none}
   - RGUI
   - {t: ∅, type: none}
-  - {t: ∅, type: none}
-  - {t: Num, h: toggle}
+  - RALT
+  - {t: Media, h: toggle}
   Lower:
-  - ESC
+  - '`'
   - '1'
   - '2'
   - '3'
@@ -63,46 +63,7 @@ layers:
   - '8'
   - '9'
   - '0'
-  - '`'
-  - '`'
-  - '!'
-  - '@'
-  - '#'
-  - $
-  - '%'
-  - ^
-  - '&'
-  - '*'
-  - (
-  - )
-  - '~'
-  - RET
-  - {t: ∅, type: none}
-  - {t: ∅, type: none}
-  - {t: ∅, type: none}
-  - {t: ∅, type: none}
-  - {t: ∅, type: none}
-  - {t: ∅, type: none}
-  - {t: ∅, type: none}
-  - {t: ∅, type: none}
-  - '{'
-  - '}'
-  - '|'
-  - {t: ∅, type: none}
-  - {t: ∅, type: none}
-  - {t: ∅, type: none}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {type: held}
-  - DEL
-  - {t: ▽, type: trans}
-  - BT
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ∅, type: none}
-  - {t: ∅, type: none}
-  - {t: ∅, type: none}
-  Raise:
+  - '-'
   - F1
   - F2
   - F3
@@ -118,14 +79,9 @@ layers:
   - {t: ∅, type: none}
   - {t: ∅, type: none}
   - {t: ∅, type: none}
-  - {t: ∅, type: none}
-  - {t: ∅, type: none}
-  - {t: ∅, type: none}
-  - {t: ∅, type: none}
-  - LEFT
-  - DOWN
-  - UP
-  - RIGHT
+  - PREVIOUS
+  - PLAY PAUSE
+  - NEXT
   - {t: ∅, type: none}
   - {t: ∅, type: none}
   - {t: ∅, type: none}
@@ -133,26 +89,70 @@ layers:
   - {t: ∅, type: none}
   - {t: ∅, type: none}
   - {t: ∅, type: none}
-  - +
-  - '-'
-  - '='
-  - '['
-  - ']'
-  - \
   - {t: ∅, type: none}
   - {t: ∅, type: none}
-  - {t: ∅, type: none}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - BT
   - {t: ▽, type: trans}
-  - DEL
+  - {t: ▽, type: trans}
+  - {t: ∅, type: none}
+  - {t: ∅, type: none}
+  - {t: ∅, type: none}
+  Raise:
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - UP ARROW
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - LEFT ARROW
+  - DOWN ARROW
+  - RIGHT ARROW
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - BT
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ∅, type: none}
-  - {t: ∅, type: none}
-  - {t: ∅, type: none}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   BT:
   - BT CLR
   - {t: BT, h: '0'}
@@ -204,42 +204,29 @@ layers:
   - K
   - E
   - N
-  Num:
+  Media:
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - UP ARROW
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - UP ARROW
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - KP DIVIDE
-  - KP 7
-  - KP 8
-  - KP 9
-  - KP MINUS
+  - LEFT ARROW
+  - DOWN ARROW
+  - RIGHT ARROW
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - KP MULTIPLY
-  - KP 4
-  - KP 5
-  - KP 6
-  - KP PLUS
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - KP EQUAL
-  - KP 1
-  - KP 2
-  - KP 3
-  - KP DOT
+  - LEFT ARROW
+  - DOWN ARROW
+  - RIGHT ARROW
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -248,12 +235,25 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - RET
-  - {t: ∅, type: none}
-  - BSPC
-  - KP 0
-  - '00'
-  - ','
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - SPACE
+  - SPACE
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
 combos:
 - p: [42, 43]
