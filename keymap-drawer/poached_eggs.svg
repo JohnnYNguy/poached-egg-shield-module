@@ -292,11 +292,11 @@ text.trans { fill: #3f72c4; opacity: 0.95; }
 </g>
 <g transform="translate(210, 210)" class="key keypos-39">
 <rect rx="6" ry="6" x="-28" y="-28" width="56" height="56" class="key"/>
-<text x="0" y="0" class="key tap">LGUI</text>
+<text x="0" y="0" class="key tap"><tspan style="font-size: 70%">&amp;caps_word</tspan></text>
 </g>
-<g transform="translate(270, 210)" class="key keypos-40">
-<rect rx="6" ry="6" x="-28" y="-28" width="56" height="56" class="key"/>
-<text x="0" y="0" class="key tap">LALT</text>
+<g transform="translate(270, 210)" class="key none keypos-40">
+<rect rx="6" ry="6" x="-28" y="-28" width="56" height="56" class="key none"/>
+<text x="0" y="0" class="key none tap">∅</text>
 </g>
 <g transform="translate(330, 210)" class="key keypos-41">
 <rect rx="6" ry="6" x="-28" y="-28" width="56" height="56" class="key"/>
@@ -562,9 +562,9 @@ text.trans { fill: #3f72c4; opacity: 0.95; }
 <rect rx="6" ry="6" x="-28" y="-28" width="56" height="56" class="key trans"/>
 <text x="0" y="0" class="key trans tap">▽</text>
 </g>
-<g transform="translate(90, 30)" class="key trans keypos-1">
-<rect rx="6" ry="6" x="-28" y="-28" width="56" height="56" class="key trans"/>
-<text x="0" y="0" class="key trans tap">▽</text>
+<g transform="translate(90, 30)" class="key keypos-1">
+<rect rx="6" ry="6" x="-28" y="-28" width="56" height="56" class="key"/>
+<text x="0" y="0" class="key tap">!</text>
 </g>
 <g transform="translate(150, 30)" class="key trans keypos-2">
 <rect rx="6" ry="6" x="-28" y="-28" width="56" height="56" class="key trans"/>
