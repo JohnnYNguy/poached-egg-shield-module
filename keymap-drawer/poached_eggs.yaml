@@ -52,7 +52,7 @@ layers:
   - RALT
   - {t: Media, h: toggle}
   Lower:
-  - '`'
+  - \
   - '1'
   - '2'
   - '3'
@@ -115,11 +115,11 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - /
-  - (
-  - )
-  - '='
-  - '?'
+  - Sft+7
+  - Sft+8
+  - Sft+9
+  - Sft+0
+  - Sft+-
   - '`'
   - {t: ▽, type: trans}
   - LEFT ARROW
@@ -128,8 +128,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '{'
-  - '}'
+  - Alt+Sft+8
+  - Alt+Sft+9
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -140,8 +140,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '['
-  - ']'
+  - Alt+8
+  - Alt+9
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - BT
