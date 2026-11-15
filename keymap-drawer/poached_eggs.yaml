@@ -52,7 +52,7 @@ layers:
   - RALT
   - {t: Media, h: toggle}
   Lower:
-  - '#'
+  - NUBS
   - '1'
   - '2'
   - '3'
