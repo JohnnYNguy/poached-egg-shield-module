@@ -52,7 +52,7 @@ layers:
   - RALT
   - {t: Media, h: toggle}
   Lower:
-  - \
+  - EQL
   - '1'
   - '2'
   - '3'
@@ -132,7 +132,7 @@ layers:
   - Alt+Sft+9
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - \
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
