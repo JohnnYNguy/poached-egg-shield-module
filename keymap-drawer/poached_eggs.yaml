@@ -76,7 +76,7 @@ layers:
   - F10
   - F11
   - F12
-  - {t: ▽, type: trans}
+  - LSHFT
   - {t: ∅, type: none}
   - {t: ∅, type: none}
   - PREVIOUS
@@ -88,8 +88,8 @@ layers:
   - {t: ∅, type: none}
   - {t: ∅, type: none}
   - {t: ∅, type: none}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LGUI
+  - LALT
   - {t: ∅, type: none}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -103,9 +103,9 @@ layers:
   - {t: ∅, type: none}
   - {t: ∅, type: none}
   Raise:
-  - {t: ▽, type: trans}
+  - Sft+NUBS
   - '!'
-  - '"'
+  - Sft+8
   - '#'
   - $
   - '%'
