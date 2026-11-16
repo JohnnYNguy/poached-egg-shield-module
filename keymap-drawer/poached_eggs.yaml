@@ -12,7 +12,7 @@ layers:
   - I
   - O
   - P
-  - '['
+  - Å
   - TAB
   - A
   - S
@@ -23,8 +23,8 @@ layers:
   - J
   - K
   - L
-  - ;
-  - ''''
+  - Ø
+  - Æ
   - LSHFT
   - Z
   - X
@@ -35,12 +35,12 @@ layers:
   - M
   - ','
   - .
-  - /
+  - '-'
   - RSHFT
   - LGUI
   - LALT
   - {t: ∅, type: none}
-  - '&caps_word'
+  - 'caps'
   - {t: ∅, type: none}
   - Lower
   - SPACE
@@ -52,7 +52,7 @@ layers:
   - RALT
   - {t: Media, h: toggle}
   Lower:
-  - NUBS
+  - ''''
   - '1'
   - '2'
   - '3'
@@ -63,7 +63,7 @@ layers:
   - '8'
   - '9'
   - '0'
-  - '-'
+  - '+'
   - F1
   - F2
   - F3
@@ -103,24 +103,24 @@ layers:
   - {t: ∅, type: none}
   - {t: ∅, type: none}
   Raise:
-  - Sft+NUBS
+  - '§'
   - '!'
-  - Sft+2
+  - '"'
   - '#'
   - $
   - '%'
-  - Sft+6
+  - '&'
   - {t: ▽, type: trans}
   - UP ARROW
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - Sft+7
-  - Sft+8
-  - Sft+9
-  - Sft+0
-  - Sft+-
-  - '`'
+  - '/'
+  - '('
+  - ')'
+  - '='
+  - '?'
+  - '<'
   - {t: ▽, type: trans}
   - LEFT ARROW
   - DOWN ARROW
@@ -128,20 +128,20 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - Alt+Sft+8
-  - Alt+Sft+9
+  - '{'
+  - '}'
   - {t: ▽, type: trans}
-  - EQL
-  - \
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '´'
+  - '@'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - Alt+8
-  - Alt+9
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '['
+  - ']'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - BT
